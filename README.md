@@ -26,11 +26,12 @@ Passo a passo para execução:
     
   Passo 2
   
-    Clone esse repósitorio para seu Git ou baixe o arquivo teste1.dart.
+    Clone esse repósitorio para seu Git ou baixe o arquivo teste1_escribo.dart.
     
   Passo 3
   
-    Execute o arquivo com o comando 'dart teste1.dart' ou 'dart run teste1.dart' em seu terminal/powershell diretamente ou abra atravez da sua IDE favorita.
+    Abra o local do arquivo no seu terminal/powershell e execute o arquivo com o comando 'dart teste1.dart' ou 'dart run teste1.dart'
+    ou abra atravez da sua IDE favorita e execute por lá.
     
   Passo 4
   
