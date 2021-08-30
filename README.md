@@ -30,7 +30,7 @@ Passo a passo para execução:
     
   Passo 3
   
-    Execute o arquivo com o comando 'dart teste1.dart' ou 'dart run teste1.dart' em seu terminal diretamente ou abra atravez da sua IDE favorita.
+    Execute o arquivo com o comando 'dart teste1.dart' ou 'dart run teste1.dart' em seu terminal/powershell diretamente ou abra atravez da sua IDE favorita.
     
   Passo 4
   
