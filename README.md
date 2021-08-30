@@ -9,10 +9,10 @@ Objetivo:
 
 Valores esperados:
 
-  IN: 10 / OUT: 23;
-  IN: 11 / OUT: 33;
-  IN: 3 / OUT: 0;
-  IN: 4 / OUT: 3;
+  IN: 10 - OUT: 23/
+  IN: 11 - OUT: 33/
+  IN: 3 - OUT: 0/
+  IN: 4 - OUT: 3/
 
 Passo a passo para execução:
 
